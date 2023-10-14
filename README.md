@@ -1,6 +1,6 @@
 ### Console.WriteLine("Hello, world!"); 👋
 
-My name is **Ivan** and I'm a 22y/o software developer!
+My name is **Ivan** and I'm a 23y/o software developer!
 
 - 🌱 I’m currently working on improving my skills in .NET and **intend to work with C#**.
 
